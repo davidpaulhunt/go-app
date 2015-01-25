@@ -3,10 +3,14 @@ Learning Go
 
 ### Why?
 
-It's scalable and is my language of choice to work with the Google APp Engine at the moment.
+It's scalable and is my language of choice to work with the Google APP Engine at the moment.
 
-### Running the Application
+### How?
 
 ```
 goapp serve
 ```
+
+### Where?
+
+See it [live](http://divine-axis-836.appspot.com)
